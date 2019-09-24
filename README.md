@@ -5,7 +5,7 @@
 4. Registration page creation
 
 
-Required packages
-shiny
-RSQLite
+Required packages:-
+shiny,
+RSQLite,
 sodium
