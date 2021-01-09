@@ -3,6 +3,7 @@
 2. DataBase Creation
 3. Password reset page Creation
 4. Registration page creation
+5. Password encryption
 
 
 Required packages:-
